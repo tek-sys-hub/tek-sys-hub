@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Tek Raj Awasthi 👋
 
-<!--
-**tek-sys-hub/tek-sys-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌏 From Nepal | 💻 Java Learner  
+🔭 Currently learning: **Java DSA + Spring Boot**  
+🌱 Building: Backend projects & REST APIs  
+📫 Reach me: [your email or LinkedIn]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Tek's GitHub stats](https://github-readme-stats.vercel.app/api?username=tek-sys-hub&show_icons=true&theme=tokyonight)
