@@ -10,7 +10,7 @@
 - 💡 Interested in backend development and building real-world applications
 - 📍 Based in Nepal
 - 💬 Ask me about **Java, OOP, Collections, Spring Boot basics**
-- 📫 Reach me at: **[your email here]**
+- 📫 Reach me at: **tekawasthi16@gmail.com**
 
 ---
 
