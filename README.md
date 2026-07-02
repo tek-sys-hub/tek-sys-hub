@@ -8,7 +8,6 @@
 - 🔭 Currently learning **Java DSA, Spring Boot & REST APIs**
 - 🌱 Practising data structures and algorithms daily in Java
 - 💡 Interested in backend development and building real-world applications
-- 📍 Based in Nepal
 - 💬 Ask me about **Java, OOP, Collections, Spring Boot basics**
 - 📫 Reach me at: **tekawasthi16@gmail.com**
 
@@ -39,7 +38,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tek-sys-hub&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tek-sys-hub&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
