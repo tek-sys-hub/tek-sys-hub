@@ -13,6 +13,7 @@
 ---
 
 🔗 **Portfolio:** https://portfolio-cherry-self.vercel.app/
+
 ---
 ## 🎨 Ricing / Dotfiles
 Minimal Hyprland setup
