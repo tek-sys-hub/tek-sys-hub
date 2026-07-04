@@ -12,7 +12,7 @@
 - 📫 Reach me at: **tekawasthi87@gmail.com**
 
 ## Portfolio
-![Portfolio demo](download.mp4)
+![Portfolio demo](./download.mp4)
 
 ## 🎨 Ricing / Dotfiles
 Minimal Hyprland setup
