@@ -10,8 +10,10 @@
 - 💡 Interested in backend development and building real-world applications
 - 💬 Ask me about **Java, OOP, Collections, Spring Boot basics**
 - 📫 Reach me at: **tekawasthi87@gmail.com**
+---
 
-
+🔗 **Portfolio:** https://portfolio-cherry-self.vercel.app/
+---
 ## 🎨 Ricing / Dotfiles
 Minimal Hyprland setup
 
