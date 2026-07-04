@@ -11,6 +11,9 @@
 - 💬 Ask me about **Java, OOP, Collections, Spring Boot basics**
 - 📫 Reach me at: **tekawasthi87@gmail.com**
 
+## Portfolio
+![Portfolio demo](download.mp4)
+
 ## 🎨 Ricing / Dotfiles
 Minimal Hyprland setup
 
