@@ -12,7 +12,7 @@
 - 📫 Reach me at: **tekawasthi87@gmail.com**
 ---
 
-🔗 **Portfolio:** https://portfolio-cherry-self.vercel.app/
+🔗 **Portfolio:** https://portfolio-b17.vercel.app
 
 ---
 ## 🎨 Ricing / Dotfiles
