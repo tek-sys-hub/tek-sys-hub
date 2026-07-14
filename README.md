@@ -97,22 +97,6 @@ A cyan-on-dark Hyprland setup, built and maintained from scratch:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:0d0d12&height=3&section=header" width="100%"/>
 
-### Extra Insights
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tek-sys-hub&theme=github_dark" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tek-sys-hub&theme=github_dark" width="45%"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tek-sys-hub&theme=github_dark" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tek-sys-hub&theme=github_dark" width="45%"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tek-sys-hub&theme=github_dark&utcOffset=6" width="60%"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:0d0d12&height=3&section=header" width="100%"/>
-
 ### GitHub Stats
 
 <p align="center">
@@ -121,9 +105,6 @@ A cyan-on-dark Hyprland setup, built and maintained from scratch:
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tek-sys-hub&theme=tokyonight&hide_border=true&background=0d0d12&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff" width="60%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tek-sys-hub&theme=tokyo-night&hide_border=true&bg_color=0d0d12&color=00e5ff&line=00e5ff&point=ffffff" width="90%" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:0d0d12&height=3&section=header" width="100%"/>
