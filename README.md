@@ -56,7 +56,7 @@
 |--------------------------------|----------------|
 | Java Core & OOP                | ✅ In Progress |
 | Data Structures & Algorithms   | ✅ In Progress |
-| Spring Boot & REST APIs        | 🔜 Learning    |
+| Spring Boot & REST APIs        | ✅ In Progress |
 | Database with JPA / Hibernate  | 🔜 Coming Soon |
 
 <br/>
