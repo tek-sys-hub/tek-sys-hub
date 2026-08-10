@@ -1,90 +1,204 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Tek%20Raj%20Awasthi&fontSize=60&animation=twinkling" alt="Tek Raj Awasthi profile header" />
+</p>
+
+<!-- Title -->
+<h3 align="center">
+    <samp>
+        &gt; Hey There!, I am
+        <b><a target="_blank" href="https://www.linkedin.com/in/tek-raj-awasthi-1a9768412">Tek Raj Awasthi (Cherry)</a></b>
+    </samp>
+</h3>
+
+<br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tek;Linux+Enthusiast;Java+%7C+Spring+Boot+%7C+DSA" alt="Typing SVG" />
+<samp>
+「 Full-Stack Developer & BSc CSIT student building mobile, web, and backend systems 」  
+</samp>
 </p>
 
 <p align="center">
-  <a href="https://portfolio-b17.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Flutter+%7C+Spring+Boot+%7C+React;Building+Real-World+SaaS+Products;BSc+CSIT+Student+%7C+Nepal"
+    alt="Typing SVG"
+  />
+</p>
+
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/tek-sys-hub)
+
+# 🛠 Technologies, Projects, and Domains
+
+<table border="0" cellspacing="10" cellpadding="0">
+<tr>
+
+<!-- LEFT: TOOLS -->
+<td width="420" valign="top" align="center">
+
+<h3>🛠 Technologies</h3>
+<br>
+
+<table align="center" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32"/></td>
+  </tr>
+</table>
+
+</td>
+
+<!-- PROJECTS -->
+<td width="260" valign="top" align="center">
+
+<h3>🧪 Projects</h3>
+<br>
+
+<div style="width:220px;">
+  <a href="docs/PROJECTS.md">
+    <img src="docs/img/tech_projects_panel.svg" width="220" alt="Projects navigation panel">
   </a>
-  <a href="mailto:tekawasthi87@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
 
-<br/>
+</td>
 
-## 🙋‍♂️ About Me
+<!-- DOMAINS -->
+<td width="260" valign="top" align="center">
 
-- 🔭 Currently learning **Java, Data Structures & Algorithms, Spring Boot, and REST APIs**
-- 🌱 Practicing DSA problems in Java on a daily basis to sharpen problem-solving skills
-- 💡 Interested in backend development and building real-world, production-ready applications
-- 💬 Ask me about **Java, OOP, Collections, and Spring Boot basics**
-- 🖥️ Also enjoy customizing my Linux desktop (Hyprland ricing) in my spare time
-- 📫 Reach me at **tekawasthi87@gmail.com**
+<h3>🧠 Focus Areas</h3>
+<br>
 
-<br/>
+<div style="width:220px;">
+    <a href="docs/AI_DOMAIN.md">
+        <img src="docs/img/ai_domains.svg" width="220" alt="Focus areas navigation panel">
+    </a>
+</div>
 
-## 🛠️ Tech Stack
+</td>
 
-**Backend**
+</tr>
+</table>
 
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/tek-sys-hub)
 
-**Tools & Workflow**
-
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Linux / Ricing Setup**
-
-![Arch Linux](https://img.shields.io/badge/ARCH%20LINUX-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Hyprland](https://img.shields.io/badge/HYPRLAND-00AEFF?style=for-the-badge&logo=wayland&logoColor=white)
-![Neovim](https://img.shields.io/badge/NEOVIM-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Waybar](https://img.shields.io/badge/WAYBAR-2E3440?style=for-the-badge&logo=waybar&logoColor=white)
-![Kitty](https://img.shields.io/badge/KITTY%20TERMINAL-000000?style=for-the-badge&logo=gnometerminal&logoColor=orange)
-
-<br/>
-
-## 📚 Currently Focusing On
-
-| Topic                          | Status         |
-|--------------------------------|----------------|
-| Java Core & OOP                | ✅ In Progress |
-| Data Structures & Algorithms   | ✅ In Progress |
-| Spring Boot & REST APIs        | ✅ In Progress |
-| Database with JPA / Hibernate  | 🔜 Coming Soon |
-
-<br/>
-
-## 📊 GitHub Stats
+### 📊 Vital Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tek-sys-hub&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tek-sys-hub&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tek-sys-hub&theme=radical" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tek-sys-hub&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tek-sys-hub&theme=radical" alt="GitHub profile contribution summary" />
+</p>    
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tek-sys-hub&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+</p>
+
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/tek-sys-hub)
+
+## 🧪 Selected Projects
+
+| Project | Stack | What it is |
+| --- | --- | --- |
+| [DriveSiksha](https://github.com/tek-sys-hub/DriveSiksha) | Flutter, Spring Boot | SaaS platform for managing driving schools in Nepal |
+| [Skill-Swap](https://github.com/tek-sys-hub/Skill-Swap) | Spring Boot, React | Peer learning platform — BSc CSIT dissertation project |
+| [Yozora](https://github.com/tek-sys-hub/Yozora) | Node.js, Express | Self-hosted anime streaming site |
+| [Credit Score System](https://github.com/tek-sys-hub/credit-score-system) | Spring Boot | Bank credit score calculation system |
+
+<p align="center"><i>See <a href="docs/PROJECTS.md">docs/PROJECTS.md</a> for the full list — update repo links above once they're pushed to GitHub.</i></p>
+
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/tek-sys-hub)
+
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr>
+
+<!-- LEFT: COLLAB -->
+<td width="33%" valign="top">
+
+<h2>🤝 Collaboration</h2>
+
+I'm open to collaborating on:
+
+<ul>
+  <li>Cross-platform mobile apps (Flutter)</li>
+  <li>Full-stack SaaS products (Spring Boot + React)</li>
+  <li>Backend systems & APIs</li>
+  <li>Small ML/data research projects</li>
+</ul>
+
+</td>
+
+<!-- MIDDLE: PANEL -->
+<td width="34%" align="center" valign="middle">
+    <a href="docs/COLLAB.md">
+        <img src="docs/img/collaboration_panel.svg" width="200px" alt="Collaboration navigation panel" />
+    </a>
+</td>
+
+<!-- RIGHT: CONTACT -->
+<td width="33%" valign="top" align="center">
+
+<h2>📫 Contact</h2>
+
+<br>
+
+<a href="https://portfolio-b17.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-portfolio--b17.vercel.app-36BCF7?style=for-the-badge&logo=google-chrome" alt="Portfolio website link">
+</a>
+<br><br>
+
+<a href="mailto:tekawasthi87@gmail.com">
+  <img src="https://img.shields.io/badge/email-tekawasthi87%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
+</a>
+<br><br>
+
+<a href="https://www.linkedin.com/in/tek-raj-awasthi-1a9768412">
+  <img src="https://img.shields.io/badge/linkedin-tek--raj--awasthi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/tek-sys-hub)
+
+<p align="center">
+⚡ Building full-stack products, one repo at a time
+</p>
+<p align="center">
+Star ⭐ the repos if they helped you!
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tek-sys-hub&theme=tokyo-night&hide_border=true" width="90%" />
+  <a href="./CODE_OF_CONDUCT.md">Code of Conduct</a> ·
+  <a href="./CONTRIBUTING.md">Collaboration</a> ·
+  <a href="./SECURITY.md">Security</a>
 </p>
 
-<br/>
-
-## 🤝 Connect With Me
+<p align="center">
+    <a href="docs/hidden/easter_egg.md">
+        <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/icons/devops/icon_heartbeat_node.svg" width="20px" alt="Hidden easter egg link">
+    </a>
+</p>
 
 <p align="center">
-  <a href="mailto:tekawasthi87@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://portfolio-b17.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
 </p>
