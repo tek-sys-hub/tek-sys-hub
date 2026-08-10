@@ -27,7 +27,9 @@
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/tek-sys-hub)
 
-# 🛠 Technologies, Projects, and Domains
+# 🛠 Technologies
+
+<div align="center">
 
 <table border="0" cellspacing="10" cellpadding="0">
 <tr>
@@ -67,6 +69,9 @@
 </tr>
 </table>
 
+</div>
+
+
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/tek-sys-hub)
 
 ### 📊 Vital Statistics
@@ -85,46 +90,11 @@
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/tek-sys-hub)
 
-## 🧪 Selected Projects
-
-| Project | Stack | What it is |
-| --- | --- | --- |
-| [DriveSiksha](https://github.com/tek-sys-hub/DriveSiksha) | Flutter, Spring Boot | SaaS platform for managing driving schools in Nepal |
-| [Skill-Swap](https://github.com/tek-sys-hub/Skill-Swap) | Spring Boot, React | Peer learning platform — BSc CSIT dissertation project |
-| [Yozora](https://github.com/tek-sys-hub/Yozora) | Node.js, Express | Self-hosted anime streaming site |
-| [Credit Score System](https://github.com/tek-sys-hub/credit-score-system) | Spring Boot | Bank credit score calculation system |
-
-<p align="center"><i>See <a href="docs/PROJECTS.md">docs/PROJECTS.md</a> for the full list — update repo links above once they're pushed to GitHub.</i></p>
-
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/tek-sys-hub)
-
-<table width="100%" border="0" cellspacing="10" cellpadding="0">
-<tr>
-
-<!-- LEFT: COLLAB -->
-<td width="33%" valign="top">
-
-<h2>🤝 Collaboration</h2>
-
-I'm open to collaborating on:
-
-<ul>
-  <li>Cross-platform mobile apps (Flutter)</li>
-  <li>Full-stack SaaS products (Spring Boot + React)</li>
-  <li>Backend systems & APIs</li>
-  <li>Small ML/data research projects</li>
-</ul>
-
-</td>
-
-<!-- MIDDLE: PANEL -->
-<td width="34%" align="center" valign="middle">
-    <a href="docs/COLLAB.md">
-        <img src="docs/img/collaboration_panel.svg" width="200px" alt="Collaboration navigation panel" />
-    </a>
-</td>
 
 <!-- RIGHT: CONTACT -->
+
+<div align="center">
+
 <td width="33%" valign="top" align="center">
 
 <h2>📫 Contact</h2>
@@ -150,6 +120,8 @@ I'm open to collaborating on:
 </tr>
 </table>
 
+</div>
+
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/tek-sys-hub)
 
 <p align="center">
@@ -159,11 +131,6 @@ I'm open to collaborating on:
 Star ⭐ the repos if they helped you!
 </p>
 
-<p align="center">
-  <a href="./CODE_OF_CONDUCT.md">Code of Conduct</a> ·
-  <a href="./CONTRIBUTING.md">Collaboration</a> ·
-  <a href="./SECURITY.md">Security</a>
-</p>
 
 <p align="center">
     <a href="docs/hidden/easter_egg.md">
