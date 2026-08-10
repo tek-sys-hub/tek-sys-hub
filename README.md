@@ -64,34 +64,6 @@
 
 </td>
 
-<!-- PROJECTS -->
-<td width="260" valign="top" align="center">
-
-<h3>🧪 Projects</h3>
-<br>
-
-<div style="width:220px;">
-  <a href="docs/PROJECTS.md">
-    <img src="docs/img/tech_projects_panel.svg" width="220" alt="Projects navigation panel">
-  </a>
-</div>
-
-</td>
-
-<!-- DOMAINS -->
-<td width="260" valign="top" align="center">
-
-<h3>🧠 Focus Areas</h3>
-<br>
-
-<div style="width:220px;">
-    <a href="docs/AI_DOMAIN.md">
-        <img src="docs/img/ai_domains.svg" width="220" alt="Focus areas navigation panel">
-    </a>
-</div>
-
-</td>
-
 </tr>
 </table>
 
