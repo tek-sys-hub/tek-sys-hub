@@ -120,9 +120,6 @@ STATUS      : 🟢 Active & Shipping to Production
     <td width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=tek-sys-hub&theme=radical&hide_border=true&border_radius=10" width="100%" alt="GitHub Streak" />
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tek-sys-hub&show_icons=true&theme=radical&hide_border=true&border_radius=10" width="100%" alt="GitHub Stats" />
-    </td>
   </tr>
 </table>
 
