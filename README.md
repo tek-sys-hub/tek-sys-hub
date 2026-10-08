@@ -42,7 +42,7 @@
 ```ini
 [SYSTEM_SPECS]
 OPERATOR    : Tek Raj Awasthi (Alias: Cherry)
-BASE        : Kathmandu, Nepal 🇳🇵
+BASE        : Kanchanpur, Nepal 🇳🇵
 ACADEMICS   : B.Sc. Computer Science & IT (CSIT)
 MISSION     : Engineering high-scale SaaS & Mobile apps
 CORE_STACK  : Flutter • Spring Boot • React • PostgreSQL
@@ -51,14 +51,10 @@ STATUS      : 🟢 Active & Shipping to Production
 ```
 
 </td>
-<td width="45%" valign="top" align="center">
-
-### 🏆 Achievements & Badges
-
-<a href="https://github.com/tek-sys-hub">
-  <img src="https://github-profile-trophy.vercel.app/?username=tek-sys-hub&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
-</a>
-
+<td width="50%" valign="top">
+<div align="center"><sub><b>~/stats</b></sub></div>
+ 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=tek-sys-hub&rank_icon=percentile&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=TheLinuxGuy-ssh&rank_icon=percentile&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark)
 </td>
 </tr>
 </table>
