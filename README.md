@@ -1,188 +1,161 @@
+# README.md
+
 <div align="center">
 
-<!-- 🚀 HERO NEON SLICE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,14,24,30&height=220&section=header&text=TEK%20RAJ%20AWASTHI&fontSize=52&fontAlignY=42&desc=%E3%80%8C%20ALIAS:%20CHERRY%20%E2%80%A2%20FULL-STACK%20%26%20MOBILE%20ARCHITECT%20%E3%80%8D&descAlignY=68&descSize=17&animation=twinkling" width="100%" alt="Tek Raj Awasthi Header" />
+<h1>Hey, I'm Tek Raj Awasthi 👋</h1>
 
-<!-- ⚡ MULTI-LINE TYPING TERMINAL -->
-<a href="https://portfoliocherry.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&height=50&lines=%E2%9E%A4+Building+Next-Gen+Mobile+%26+Full-Stack+Platforms;%E2%9E%A4+Flutter+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Docker;%E2%9E%A4+BSc+CSIT+Scholar+%7C+Based+in+Nepal+%F0%9F%87%B3%F0%9F%87%B5;%E2%9E%A4+Turning+Complex+Logic+into+Elegant+Software" alt="Typing SVG" />
-</a>
+### Cherry | Software Developer & Programming Language Designer
 
-<br><br>
-
-<!-- 🌐 QUICK TELEPORT LAUNCHPAD -->
-<p align="center">
-  <a href="https://portfoliocherry.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0d1117" alt="Portfolio" />
+<p>
+  <a href="https://portfoliocherry.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-DC2626?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tek-raj-awasthi-1a9768412" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+  <a href="https://github.com/tek-sys-hub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tek-raj-awasthi-1a9768412">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="mailto:tekawasthi87@gmail.com">
-    <img src="https://img.shields.io/badge/DISPATCH_MAIL-FF0055?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<!-- CYBER CYCLE ANIMATED DIVIDER -->
-<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" width="100%" alt="Cyber Divider" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=F87171&center=true&vCenter=true&width=650&height=35&lines=Building+software+from+the+ground+up.;Designing+my+own+programming+language.;Exploring+systems%2C+algorithms%2C+and+software+engineering." alt="Developer introduction"/>
 
 </div>
 
-<br>
+---
 
-<!-- 🎮 DEVELOPER HUD OVERVIEW -->
-<table align="center" width="100%" border="0">
-  <tr>
-    <td width="55%" valign="top">
+## 👨‍💻 About Me
 
-### 🛰️ System Telemetry
+Hey! I'm **Tek Raj Awasthi**, also known as **Cherry**, a B.Sc. CSIT student from Nepal who enjoys building software and exploring how things work under the hood.
 
-```ini
-[SYSTEM_SPECS]
-OPERATOR    : Tek Raj Awasthi (Alias: Cherry)
-BASE        : Kanchanpur, Nepal 🇳🇵
-ACADEMICS   : B.Sc. Computer Science & IT (CSIT)
-MISSION     : Engineering high-scale SaaS & Mobile apps
-CORE_STACK  : Flutter • Spring Boot • React • PostgreSQL
-PHILOSOPHY  : High Performance • Clean Code • Polished UX
-STATUS      : 🟢 Active & Shipping to Production
+I'm interested in more than just using existing tools. I enjoy exploring programming languages, application architecture, algorithms, and low-level systems.
+
+Currently, my main focus is **Rubix**, my own programming language targeting x86-64.
+
+- 🔴 **Language Design:** Developing Rubix, my own programming language.
+- 💻 **Software Development:** Building web, mobile, and backend applications.
+- 🧠 **Computer Science:** Interested in data structures, algorithms, compilers, and operating systems.
+- ⚙️ **Systems Programming:** Exploring low-level development and x86-64 architecture.
+- 🌱 **Current Goal:** Making Rubix more stable, reliable, and usable.
+
+```text
+┌──────────────────────────────────────────┐
+│  NAME       : Tek Raj Awasthi            │
+│  ALIAS      : Cherry                     │
+│  LOCATION   : Nepal 🇳🇵                   │
+│  EDUCATION  : B.Sc. CSIT                 │
+│  PROJECT    : Rubix Programming Language │
+│  FOCUS      : Software & Systems         │
+└──────────────────────────────────────────┘
 ```
 
-</td>
-<td width="50%" valign="top">
-<div align="center"><sub><b>~/stats</b></sub></div>
- 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=tek-sys-hub&rank_icon=percentile&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=TheLinuxGuy-ssh&rank_icon=percentile&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark)
-</td>
-</tr>
-</table>
-
-<br>
+## 🔻 Featured Project
 
 <div align="center">
-  <!-- CIRCUIT PULSE BAR DIVIDER -->
-  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Circuit Divider" />
-</div>
 
-<!-- 🛠️ INTERACTIVE TECH DOCK -->
-<div align="center">
+<h3>🔴 RUBIX</h3>
 
-## 🧰 The Tech Arsenal
+**My own programming language, built from the ground up.**
 
-<p><sub>Hover over icons to inspect technologies</sub></p>
-
-<!-- APPS & CLIENT DOCK -->
-<p align="center">
-  <b>✦ Client, Mobile & Frontend</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,html,css,tailwind&theme=dark" alt="Frontend & Mobile" />
-  </a>
-</p>
-
-<!-- BACKEND & SYSTEMS DOCK -->
-<p align="center">
-  <b>✦ Backend, Core APIs & Systems</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,java,nodejs,cpp,postman&theme=dark" alt="Backend & Systems" />
-  </a>
-</p>
-
-<!-- DATABASES & INFRASTRUCTURE DOCK -->
-<p align="center">
-  <b>✦ Persistence, Cloud & DevOps</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,linux,vscode&theme=dark" alt="Databases & DevOps" />
-  </a>
-</p>
+<img src="https://img.shields.io/badge/PROJECT-RUBIX-B91C1C?style=for-the-badge" alt="Rubix"/>
+<img src="https://img.shields.io/badge/TARGET-x86--64-24292F?style=for-the-badge" alt="x86-64"/>
 
 </div>
 
-<br>
+I'm developing **Rubix**, an independent programming language targeting x86-64. Rather than only building applications with existing languages, I want to understand and develop the foundations of a language myself.
+
+### Current areas of focus
+
+- 🧩 Language syntax and design
+- ⚙️ Language implementation and execution
+- 💻 x86-64 architecture and low-level programming
+- 🧪 Testing, stability, and reliability
+- 📚 Documentation and developer experience
+
+My long-term goal is to keep improving Rubix into a reliable, usable programming language and explore what can be built with it.
+
+<!-- Add your public Rubix repository URL here. -->
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <!-- DUAL ENERGY TRACKS DIVIDER -->
-  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%" alt="Energy Divider" />
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,cpp,js,ts,dart&theme=dark" alt="Programming languages"/>
+
+### 🎨 Frontend & Mobile
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,flutter&theme=dark" alt="Frontend and mobile technologies"/>
+
+### ⚙️ Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,postgres,mysql&theme=dark" alt="Backend and database technologies"/>
+
+### 🔧 Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,postman&theme=dark" alt="Development tools"/>
+
 </div>
 
-<!-- 📊 DYNAMIC VITAL STATISTICS -->
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
 
-## 📊 Live Metrics & Telemetry
+<a href="https://github.com/tek-sys-hub">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tek-sys-hub&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/tek-sys-hub">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tek-sys-hub&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages"/>
+</a>
 
-<table align="center" border="0">
-  <tr align="center">
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tek-sys-hub&theme=radical&hide_border=true&border_radius=10" width="100%" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<br/><br/>
 
-<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tek-sys-hub&theme=github-dark-blue&hide_border=true" width="80%" alt="GitHub contribution streak"/>
 
-<!-- CONTRIBUTION BREAKDOWN CARD -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tek-sys-hub&theme=radical" width="95%" alt="Profile Details Card" />
-</p>
+<br/><br/>
 
-<!-- PROFILE ACCESS MONITOR -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tek-sys-hub&label=SYS_HITS&color=00F0FF&style=flat-square" alt="Traffic Monitor" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tek-sys-hub&theme=github_dark" width="95%" alt="GitHub contribution overview"/>
 
 </div>
 
-<br>
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
-  <!-- DUAL ENERGY TRACKS DIVIDER -->
-  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%" alt="Energy Divider" />
-</div>
 
-<!-- 📬 TRANSMISSION MATRIX / CONTACT -->
-<div align="center">
+<a href="https://portfoliocherry.vercel.app/">
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="42" alt="Portfolio"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/tek-sys-hub">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="42" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/tek-raj-awasthi-1a9768412">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="42" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:tekawasthi87@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="42" alt="Email"/>
+</a>
 
-## 📡 Transmission Channels
+<br/><br/>
 
-<table align="center" border="0" cellpadding="8">
-  <tr align="center">
-    <td align="center" width="220">
-      <a href="https://portfoliocherry.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" width="38" height="38" alt="Website" /><br><br>
-        <b>Portfolio Terminal</b><br>
-        <sub><code>tekawasthi.dev</code></sub>
-      </a>
-    </td>
-    <td align="center" width="220">
-      <a href="https://www.linkedin.com/in/tek-raj-awasthi-1a9768412" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="38" height="38" alt="LinkedIn" /><br><br>
-        <b>Professional Node</b><br>
-        <sub><code>tek-raj-awasthi</code></sub>
-      </a>
-    </td>
-    <td align="center" width="220">
-      <a href="mailto:tekawasthi87@gmail.com">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="38" height="38" alt="Email" /><br><br>
-        <b>Direct Dispatch</b><br>
-        <sub><code>tekawasthi87@gmail.com</code></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=tek-sys-hub&label=PROFILE%20VIEWS&color=B91C1C&style=flat-square" alt="Profile views"/>
 
-<br>
+<br/><br/>
 
-<p align="center">
-  ⚡ <i>"Building full-stack products, one repo at a time."</i><br>
-  <b>Star ⭐ the repositories if they sparked some inspiration!</b>
-</p>
+*“Don't just use the tools. Understand them. Build them.”*
 
-<!-- 🔓 CLASSIFIED EASTER EGG NODE -->
-<p align="center">
-  <a href="docs/hidden/easter_egg.md" title="Decrypt Secret Node">
-    <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/icons/devops/icon_heartbeat_node.svg" width="20px" alt="Classified Node" />
-  </a>
-</p>
+**Thanks for stopping by! 🔴**
 
 </div>
