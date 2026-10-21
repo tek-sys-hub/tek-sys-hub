@@ -1,161 +1,386 @@
-# README.md
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=CHERRY.&fontSize=75&fontColor=F5F5F5&stroke=E63946&strokeWidth=1&animation=fadeIn&color=0D1117" width="100%" alt="Cherry"/>
 
-<h1>Hey, I'm Tek Raj Awasthi 👋</h1>
+<br/>
 
-### Cherry | Software Developer & Programming Language Designer
+<sub>INDEPENDENT DEVELOPER &nbsp; / &nbsp; LANGUAGE DESIGN &nbsp; / &nbsp; SOFTWARE ENGINEERING</sub>
 
-<p>
-  <a href="https://portfoliocherry.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-DC2626?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/tek-sys-hub">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tek-raj-awasthi-1a9768412">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:tekawasthi87@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=F87171&center=true&vCenter=true&width=650&height=35&lines=Building+software+from+the+ground+up.;Designing+my+own+programming+language.;Exploring+systems%2C+algorithms%2C+and+software+engineering." alt="Developer introduction"/>
+# I build things from the ground up.
+
+I’m **Tek Raj Awasthi**, a CSIT student from Nepal exploring the world of software, programming languages, and systems engineering.
+
+Currently building **Rubix**, my own programming language targeting x86-64.
+
+<br/>
+
+<a href="https://www.tekawasthi.dev/"><img src="https://img.shields.io/badge/EXPLORE_MY_WORLD-E63946?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
+&nbsp;
+<a href="https://github.com/tek-sys-hub"><img src="https://img.shields.io/badge/VIEW_SOURCE-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"/></a>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E63946" width="100%" alt="Red divider"/>
 
-Hey! I'm **Tek Raj Awasthi**, also known as **Cherry**, a B.Sc. CSIT student from Nepal who enjoys building software and exploring how things work under the hood.
+<table>
+<tr>
+<td width="58%" valign="top">
 
-I'm interested in more than just using existing tools. I enjoy exploring programming languages, application architecture, algorithms, and low-level systems.
+### THE PERSON BEHIND THE CODE
 
-Currently, my main focus is **Rubix**, my own programming language targeting x86-64.
+I'm curious about what happens beneath the interface.
 
-- 🔴 **Language Design:** Developing Rubix, my own programming language.
-- 💻 **Software Development:** Building web, mobile, and backend applications.
-- 🧠 **Computer Science:** Interested in data structures, algorithms, compilers, and operating systems.
-- ⚙️ **Systems Programming:** Exploring low-level development and x86-64 architecture.
-- 🌱 **Current Goal:** Making Rubix more stable, reliable, and usable.
+How does a language execute? How do systems communicate with hardware? How can complex logic become something elegant and useful?
 
-```text
-┌──────────────────────────────────────────┐
-│  NAME       : Tek Raj Awasthi            │
-│  ALIAS      : Cherry                     │
-│  LOCATION   : Nepal 🇳🇵                   │
-│  EDUCATION  : B.Sc. CSIT                 │
-│  PROJECT    : Rubix Programming Language │
-│  FOCUS      : Software & Systems         │
-└──────────────────────────────────────────┘
+Those questions drive the projects I work on.
+
+I build applications, experiment with new ideas, and explore the foundations that make software possible.
+
+**Currently interested in**
+
+- Programming language engineering
+- Low-level development and x86-64
+- Algorithms and data structures
+- Web, mobile, and backend engineering
+- Operating system fundamentals
+
+</td>
+<td width="42%" valign="top">
+
+### `~/identity`
+
+```yaml
+name: Tek Raj Awasthi
+alias: Cherry
+location: Nepal
+education: BSc CSIT
+
+interests:
+  - Software
+  - Languages
+  - Systems
+
+building:
+  - Rubix
+
+mindset: "Understand everything"
 ```
 
-## 🔻 Featured Project
+</td>
+</tr>
+</table>
 
-<div align="center">
+<br/>
 
-<h3>🔴 RUBIX</h3>
+## <img src="https://skillicons.dev/icons?i=code&theme=dark" width="24" alt="Code"/> &nbsp; THE MAIN EXPERIMENT
 
-**My own programming language, built from the ground up.**
+<table>
+<tr>
+<td width="100%" valign="top">
 
-<img src="https://img.shields.io/badge/PROJECT-RUBIX-B91C1C?style=for-the-badge" alt="Rubix"/>
-<img src="https://img.shields.io/badge/TARGET-x86--64-24292F?style=for-the-badge" alt="x86-64"/>
+<img src="https://img.shields.io/badge/PROJECT_001-RUBIX-E63946?style=flat-square" alt="Project Rubix"/>
 
-</div>
+# RUBIX
 
-I'm developing **Rubix**, an independent programming language targeting x86-64. Rather than only building applications with existing languages, I want to understand and develop the foundations of a language myself.
+### A language of my own.
 
-### Current areas of focus
+Rubix is my independent programming language project. Instead of limiting myself to writing programs in existing languages, I'm exploring the engineering involved in creating a language itself.
 
-- 🧩 Language syntax and design
-- ⚙️ Language implementation and execution
-- 💻 x86-64 architecture and low-level programming
-- 🧪 Testing, stability, and reliability
-- 📚 Documentation and developer experience
+The focus is on building a stable foundation, understanding execution, and working close to the machine through the x86-64 target.
 
-My long-term goal is to keep improving Rubix into a reliable, usable programming language and explore what can be built with it.
+`LANGUAGE DESIGN` &nbsp; `IMPLEMENTATION` &nbsp; `x86-64` &nbsp; `STABILITY`
 
-<!-- Add your public Rubix repository URL here. -->
+<br/>
 
----
+<a href="https://github.com/tek-sys-hub?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-E63946?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
 
-## 🛠️ Tech Stack
+<sub>Replace this repository link with the direct Rubix repository URL when available.</sub>
 
-<div align="center">
+</td>
+</tr>
+</table>
 
-### 💻 Languages
+<br/>
+
+## THE TOOLBOX
+
+<div align= "center">
+
+<sub>Different tools for different layers of the stack.</sub>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**01 / LANGUAGES**
 
 <img src="https://skillicons.dev/icons?i=java,cpp,js,ts,dart&theme=dark" alt="Programming languages"/>
 
-### 🎨 Frontend & Mobile
+**02 / INTERFACES**
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,flutter&theme=dark" alt="Frontend and mobile technologies"/>
+<img src="https://skillicons.dev/icons?i=react,flutter,html,css,tailwind&theme=dark" alt="Frontend and mobile"/>
 
-### ⚙️ Backend & Databases
+</td>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,postgres,mysql&theme=dark" alt="Backend and database technologies"/>
+**03 / BACKEND**
 
-### 🔧 Tools & Environment
+<img src="https://skillicons.dev/icons?i=spring,nodejs,postgres,mysql&theme=dark" alt="Backend and databases"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,postman&theme=dark" alt="Development tools"/>
+**04 / ENVIRONMENT**
 
-</div>
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode&theme=dark" alt="Development tools"/>
 
----
+</td>
+</tr>
+</table>
 
-## 📊 GitHub Statistics
+<br/>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E63946" width="100%" alt="Red divider"/>
 
-<a href="https://github.com/tek-sys-hub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tek-sys-hub&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/tek-sys-hub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tek-sys-hub&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages"/>
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tek-sys-hub&theme=github-dark-blue&hide_border=true" width="80%" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tek-sys-hub&theme=github_dark" width="95%" alt="GitHub contribution overview"/>
 
 </div>
 
----
 
-## 🌐 Connect With Me
+## THE WORKBENCH
+
+<sub>A collection of ideas, experiments, and software built through curiosity.</sub>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/01-UNDER_THE_HOOD-E63946?style=flat-square" alt="Systems engineering"/>
+### SYSTEMS & LANGUAGES
+
+I enjoy exploring what happens beneath everyday software. From language implementation to low-level execution, I want to understand the mechanisms that make computing possible.
+
+**EXPLORING**
+
+- Language implementation
+- x86-64 architecture
+- Memory and execution
+- Operating system fundamentals
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/02-BUILDING_IN_PUBLIC-30363D?style=flat-square" alt="Building in public"/>
+
+### SOFTWARE & APPLICATIONS
+
+Beyond low-level engineering, I experiment with interfaces, applications, and backend systems that turn ideas into usable products.
+
+**EXPLORING**
+
+- Web application development
+- Mobile experiences
+- Backend architecture
+- Developer tools
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## THE DEVELOPMENT LOG
+
+<sub>One idea at a time. One problem at a time. Always learning.</sub>
+
+<br/>
+
+<table>
+<tr>
+<td width="15%" align="center" valign="top">
+
+**01**
+
+</td>
+<td width="85%" valign="top">
+
+### EXPLORE
+
+Understand the problem, study the fundamentals, and figure out how the pieces fit together.
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=30363D" width="100%" alt="Divider"/>
+
+</td>
+</tr>
+<tr>
+<td width="15%" align="center" valign="top">
+
+**02**
+
+</td>
+<td width="85%" valign="top">
+
+### ENGINEER
+
+Turn concepts into working implementations. Experiment, debug, rethink, and improve.
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=30363D" width="100%" alt="Divider"/>
+
+</td>
+</tr>
+<tr>
+<td width="15%" align="center" valign="top">
+
+**03**
+
+</td>
+<td width="85%" valign="top">
+
+### REFINE
+
+Focus on correctness, stability, maintainability, and the details that separate a prototype from dependable software.
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=30363D" width="100%" alt="Divider"/>
+
+</td>
+</tr>
+<tr>
+<td width="15%" align="center" valign="top">
+
+**04**
+
+</td>
+<td width="85%" valign="top">
+
+### BUILD AGAIN
+
+Every project reveals something new. Apply what I learn and use it to build something better.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E63946" width="100%" alt="Red divider"/>
+## GITHUB / THE ACTIVITY
+
+<sub>A compact overview of my coding journey.</sub>
 
 <div align="center">
 
-<a href="https://portfoliocherry.vercel.app/">
-  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="42" alt="Portfolio"/>
-</a>
-&nbsp;&nbsp;
+<table>
+<tr>
+<td width="50%" align="center">
+
+**01 / CONTRIBUTIONS**
+
 <a href="https://github.com/tek-sys-hub">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="42" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/tek-raj-awasthi-1a9768412">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="42" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:tekawasthi87@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="42" alt="Email"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tek-sys-hub&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=C9D1D9&dates=777777" width="100%" alt="Contribution streak"/>
 </a>
 
-<br/><br/>
+</td>
+<td width="50%" align="center">
 
-<img src="https://komarev.com/ghpvc/?username=tek-sys-hub&label=PROFILE%20VIEWS&color=B91C1C&style=flat-square" alt="Profile views"/>
+**02 / LANGUAGES**
 
-<br/><br/>
+<a href="https://github.com/tek-sys-hub">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tek-sys-hub&layout=compact&hide_border=true&bg_color=0D1117&title_color=E63946&text_color=C9D1D9&langs_count=5&card_width=300" width="100%" alt="Top languages"/>
+</a>
 
-*“Don't just use the tools. Understand them. Build them.”*
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
 
-**Thanks for stopping by! 🔴**
+**03 / GITHUB STATS**
+
+<a href="https://github.com/tek-sys-hub">
+<img src="https://github-readme-stats.vercel.app/api?username=tek-sys-hub&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=E63946&text_color=C9D1D9&hide=issues&include_all_commits=true" width="100%" alt="GitHub statistics"/>
+</a>
+
+</td>
+</div>
+
+## BEYOND THE CODE
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### CURIOSITY
+
+Understanding how things work instead of accepting them as they are.
+
+</td>
+<td width="34%" align="center" valign="top">
+
+### CRAFT
+
+Writing software with attention to logic, structure, and reliability.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### GROWTH
+
+Learning through experimentation, mistakes, and consistent improvement.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=30363D" width="100%" alt="Section divider"/>
+
+## FIND ME / LET'S CONNECT
+
+<sub>Open to connecting with developers, exchanging ideas, and exploring interesting projects.</sub>
+
+<br/>
+
+<div align="center">
+
+<a href="https://www.tekawasthi.dev/"><img src="https://img.shields.io/badge/PORTFOLIO-tekawasthi.dev-E63946?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website"/></a>
+
+<a href="https://github.com/tek-sys-hub"><img src="https://img.shields.io/badge/GITHUB-tek--sys--hub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<a href="https://www.linkedin.com/in/tek-raj-awasthi-1a9768412"><img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<a href="mailto:tekawasthi87@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SEND_A_MESSAGE-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=tek-sys-hub&style=flat-square&color=E63946&label=PROFILE+VISITS" alt="Profile visitors"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=160&text=KEEP%20BUILDING.&fontSize=35&fontColor=F5F5F5&stroke=E63946&strokeWidth=1&color=0D1117&animation=fadeIn&section=footer" width="100%" alt="Keep building"/>
+
+<br/>
+
+### LESS TALK. MORE BUILD.
+
+<sub>CHERRY. / Independent by design.</sub>
+
+<sub>Cherry © Building, breaking, learning, repeating.</sub>
 
 </div>
